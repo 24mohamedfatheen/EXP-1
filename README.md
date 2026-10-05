@@ -78,6 +78,11 @@ b.  KCL:
 
 
 
+<img width="1917" height="1020" alt="image" src="https://github.com/user-attachments/assets/9110fea4-45ca-4dfd-95a8-7d1ddb6d5efa" />
+
+
+
+
 
 
 RESULT:
