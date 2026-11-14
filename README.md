@@ -49,12 +49,10 @@ b. To verify Kirchhoff's Current Law (KCL) for the given circuit.
 10. Switch on the RPS and gradually set the required input voltage within the specified range.
 11. Measure and record the current in each branch using the ammeters.
 12. Repeat the measurements for different input-voltage values and tabulate the readings.
-CIRCUIT DIAGRAM:
 
-CIRCUIT DIAGRAM:
+## CIRCUIT DIAGRAMS
 
-
-a.   KVL:
+### A. KVL circuit diagram
 <img width="1600" height="719" alt="image" src="https://github.com/user-attachments/assets/fe83b56c-018e-4051-b666-9bc9d190d1c7" />
 
 
@@ -62,7 +60,7 @@ a.   KVL:
  
 
 
-b.  KCL:
+### B. KCL circuit diagram
 <img width="1600" height="873" alt="image" src="https://github.com/user-attachments/assets/f6cf67d1-a803-45a1-8724-a6f39cf97f2d" />
 
  
