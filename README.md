@@ -1,43 +1,54 @@
-# EXP-1
-EXPT NO: 1	VERIFICATION OF KIRCHHOFF’S LAWS
-AIM
-a.   To verify Kirchhoff’s Voltage Law (KVL) for the given circuit. 
-b.   To verify Kirchhoff’s Current Law (KCL) for the given circuits.
+## EXPERIMENT NO. 1 – VERIFICATION OF KIRCHHOFF'S LAWS
 
-APPARATUS REQUIRED:
-S.No.	Components	Range	Quantity
-1	Resistor	1kΩ	3
-2	Voltmeter (DC)	0-30V	3
-3	Ammeter (DC)	(0-200)mA	3
-4	Bread Board		1
-5	Regulated Power Supply	(0-30)V	1
-6	Connecting wires		As required
+| **Name:** |  | **Reg. No.:** |  |
+|---|---|---|---|
+| **Date:** | | **Batch / Section:** | |
 
-THEORY:
-KVL: Kirchhoff's voltage law states that the sum of the voltage differences around any closed loop in a circuit must be zero. A loop in a circuit is any path that ends at the same point at which it starts.
-KCL:
-Kirchhoff's Current Law (KCL) Kirchhoff's Current Law states that the algebraic sum of the currents entering and leaving a node is equal to zero. By convention, currents entering the node are positive, and those leaving a node are negative
+---
 
+## AIM
 
-PROCEDURE:
-a.   KVL:
-1.   Connect as per the circuit diagram.
-2.   Check if the RPS voltage is set to zero voltage.
-3.   Check all the meters for null position.
-4.   Switch on the RPS.
-5.   Set the input voltage to a value between 0V to 30V.
-6.   Record the voltage values shown in the voltmeter connected across each resistor.
-7.   Take readings for different values of input voltage and tabulate them.
+a. To verify Kirchhoff's Voltage Law (KVL) for the given circuit.
 
+b. To verify Kirchhoff's Current Law (KCL) for the given circuit.
 
-b.  KCL:
-1.   Connect as per the circuit diagram.
-2.   Check if the RPS voltage is set to zero voltage.
-3.   Check all the meters for null position.
-4.   Switch on the RPS.
-5.   Set the input voltage to a value between 0V to 30V.
-6.   Record the voltage values shown in the ammeter connected to each resistor.
-7.   Take readings for different values of input voltage and tabulate them. 
+## APPARATUS REQUIRED
+
+| S. No. | Component | Range / Rating | Quantity |
+|:---:|:---:|:---:|:---:|
+| 1 | Resistor | 1 kΩ | 3 |
+| 2 | DC Voltmeter | 0–30 V | 3 |
+| 3 | DC Ammeter | 0–0.2 A | 3 |
+| 4 | Breadboard | — | 1 |
+| 5 | Regulated Power Supply (RPS) | 0–30 V | 1 |
+| 6 | Connecting wires | As required | As required |
+| 7 | Simulation software | Proteus Design Suite | 1 |
+
+## THEORY
+
+**Kirchhoff's Voltage Law (KVL):** The algebraic sum of all voltage rises and voltage drops around any closed loop in an electrical circuit is zero.
+
+**Kirchhoff's Current Law (KCL):** The algebraic sum of currents at any node is zero. In other words, the total current entering a node is equal to the total current leaving the node.
+
+## PROCEDURE
+
+### A. Verification of KVL
+
+1. Connect the circuit as shown in the KVL circuit diagram.
+2. Ensure that the RPS output is set to zero volts before switching it on.
+3. Check that all meters are correctly connected and set to their zero positions.
+4. Switch on the RPS and gradually set the required input voltage within the specified range.
+5. Measure and record the voltage across each resistor using the voltmeters.
+6. Repeat the measurements for different input-voltage values and tabulate the readings.
+
+### B. Verification of KCL
+
+7. Connect the circuit as shown in the KCL circuit diagram.
+8. Ensure that the RPS output is set to zero volts before switching it on.
+9. Check that all meters are correctly connected and set to their zero positions.
+10. Switch on the RPS and gradually set the required input voltage within the specified range.
+11. Measure and record the current in each branch using the ammeters.
+12. Repeat the measurements for different input-voltage values and tabulate the readings.
 CIRCUIT DIAGRAM:
 
 CIRCUIT DIAGRAM:
