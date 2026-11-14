@@ -1,8 +1,8 @@
 ## EXPERIMENT NO. 1 – VERIFICATION OF KIRCHHOFF'S LAWS
 
-| **Name:** |  | **Reg. No.:** |  |
+| **Name:** | Mohamed fatheen | **Reg. No.:** | 26006890 |
 |---|---|---|---|
-| **Date:** | | **Batch / Section:** | |
+| **Date:** | | **Batch / Section:** |26ODJ102 |
 
 ---
 
