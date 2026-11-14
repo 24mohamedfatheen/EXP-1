@@ -65,15 +65,25 @@ b. To verify Kirchhoff's Current Law (KCL) for the given circuit.
 
  
 
-Calculation:
+## CALCULATIONS
 
-a.   KVL:
+### A. KVL
+
+According to KVL, **Vs = VR1 + VR2 + VR3**.
+
+Substitute the observed values and verify that the algebraic sum of the voltage drops is approximately equal to the supply voltage.
 <img width="1022" height="1598" alt="image" src="https://github.com/user-attachments/assets/7726a419-c235-4a6f-a155-1c12d3e025c0" />
 
  
 
 
-b.  KCL:
+**Figure 5:** KVL calculation
+
+### B. KCL
+
+According to KCL, **It = I1 + I2 + I3**.
+
+Substitute the observed values and verify that the total current entering the node is approximately equal to the sum of the branch currents.
 <img width="998" height="1598" alt="image" src="https://github.com/user-attachments/assets/dd4eca0e-9d73-4d90-ab3e-de0cd5efc6bc" />
 <img width="1076" height="1599" alt="image" src="https://github.com/user-attachments/assets/edf8e024-a42a-4770-92c5-11724da553ad" />
 
