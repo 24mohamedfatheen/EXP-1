@@ -2,7 +2,7 @@
 
 | **Name:** | Mohamed fatheen | **Reg. No.:** | 26006890 |
 |---|---|---|---|
-| **Date:** | | **Batch / Section:** |26ODJ102 |
+| **Date:** |7/10/2026 | **Batch / Section:** |26ODJ102 |
 
 ---
 
